@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "d9ca5a82000bd404",
+    "type": "split",
+    "children": [
+      {
+        "id": "2157b67da9c50fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2124735184a1e081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/筆記/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663a0748d4fad9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d07a7261dea51b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d0a5899e092ad4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "aafd560984c4156d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "231637cafc9571a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          },
+          {
+            "id": "d924b6d52018e786",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee4c8293d3c90c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "798e1b146d69c702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c632050ff6ee15d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "f9d020507ef87d24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "fd8adc6841484d56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "b56183e153c3c5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "26d0a5899e092ad4",
+  "lastOpenFiles": [
+    "content/index.md",
+    "content/筆記/Index.md",
+    "content/Test/Index.md",
+    "content/Test/4.  為知識建立聯接.md",
+    "content/Test/3. Markdown格式.md",
+    "content/筆記/Introduction.md",
+    "content/Test/2. 認識Obsidian0.Obisidian.md",
+    "content/Test/1. Obsidian簡介.md",
+    "content/Test/0. Obsidian學習大綱.md",
+    "content/筆記",
+    "content/Test",
+    "content",
+    "content/工具筆記/Obsidian學習/4.  為知識建立聯接.md",
+    "content/工具筆記/Obsidian學習/3. Markdown格式.md",
+    "content/工具筆記/Obsidian學習/2. 認識Obsidian.md",
+    "content/工具筆記/Obsidian學習/1. Obsidian簡介.md",
+    "content/工具筆記/Obsidian學習/0. Obsidian學習大綱.md",
+    "content/筆記/未命名.md",
+    "Templates/Chapter.md",
+    "content/筆記/Obisidian/0. Obsidian學習大.md",
+    "content/筆記/Obisidian/0. Obsidian學習大綱.md",
+    "content/筆記/Obisidian/未命名.md",
+    "content/筆記/Obisidian",
+    "content/工具筆記/Obsidian學習",
+    "content/工具筆記/Attachment",
+    "content/工具筆記/00 Box",
+    "content/WorkSpace/工作筆記",
+    "content/工具筆記",
+    "public/index-og-image.webp",
+    "public/WorkSpace/Introduction-og-image.webp",
+    "public/WorkSpace/Index-og-image.webp",
+    "public/postscript.js",
+    "public/static/og-image.png",
+    "public/static/icon.png"
+  ]
+}

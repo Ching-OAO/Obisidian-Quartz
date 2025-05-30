@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d9ca5a82000bd404",
+    "id": "3dd19cc45d5680cb",
     "type": "split",
     "children": [
       {
-        "id": "2157b67da9c50fe2",
+        "id": "1021a177ce835c95",
         "type": "tabs",
         "children": [
           {
-            "id": "2124735184a1e081",
+            "id": "a7dfe900ead8df85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "新分頁"
             }
           }
         ]
@@ -27,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "663a0748d4fad9ff",
+    "id": "f4cece1ee2e240b3",
     "type": "split",
     "children": [
       {
-        "id": "1d07a7261dea51b7",
+        "id": "bf4844c8704273aa",
         "type": "tabs",
         "children": [
           {
-            "id": "26d0a5899e092ad4",
+            "id": "d6c4439a0bd21c57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
             }
           },
           {
-            "id": "aafd560984c4156d",
+            "id": "28296d68d98951ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "231637cafc9571a8",
+            "id": "86d18b28cd11cb28",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "d924b6d52018e786",
+            "id": "c75e91729a5ba2dd",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -91,15 +87,15 @@
     "width": 300
   },
   "right": {
-    "id": "ee4c8293d3c90c41",
+    "id": "48bad7bf0a0002f7",
     "type": "split",
     "children": [
       {
-        "id": "798e1b146d69c702",
+        "id": "11bce23fee1661c1",
         "type": "tabs",
         "children": [
           {
-            "id": "5c632050ff6ee15d",
+            "id": "e7dd3114b3077982",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +113,7 @@
             }
           },
           {
-            "id": "f9d020507ef87d24",
+            "id": "1c40ca120c40b3a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +126,7 @@
             }
           },
           {
-            "id": "fd8adc6841484d56",
+            "id": "4a2ff9f79e0d7524",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,7 +141,7 @@
             }
           },
           {
-            "id": "b56183e153c3c5b5",
+            "id": "409698d9c48b6828",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,52 +163,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:開啟命令面板": false
     }
   },
-  "active": "2124735184a1e081",
+  "active": "a7dfe900ead8df85",
   "lastOpenFiles": [
-    "content/筆記/Introduction.md",
-    "content/筆記/Index.md",
-    "content/Test/Index.md",
-    "content/Test/4.  為知識建立聯接.md",
-    "content/Test/3. Markdown格式.md",
-    "content/Test/2. 認識Obsidian0.Obisidian.md",
-    "content/Test/1. Obsidian簡介.md",
-    "content/Test/0. Obsidian學習大綱.md",
-    "content/筆記",
-    "content/index.md",
-    "content/Test",
-    "content",
-    "content/工具筆記/Obsidian學習/4.  為知識建立聯接.md",
-    "content/工具筆記/Obsidian學習/3. Markdown格式.md",
-    "content/工具筆記/Obsidian學習/2. 認識Obsidian.md",
-    "content/工具筆記/Obsidian學習/1. Obsidian簡介.md",
-    "content/工具筆記/Obsidian學習/0. Obsidian學習大綱.md",
-    "content/筆記/未命名.md",
     "Templates/Chapter.md",
-    "content/筆記/Obisidian/0. Obsidian學習大.md",
-    "content/筆記/Obisidian/0. Obsidian學習大綱.md",
-    "content/筆記/Obisidian/未命名.md",
-    "content/筆記/Obisidian",
-    "content/工具筆記/Obsidian學習",
-    "content/工具筆記/Attachment",
-    "content/工具筆記/00 Box",
-    "content/WorkSpace/工作筆記",
-    "content/工具筆記",
-    "public/index-og-image.webp",
-    "public/WorkSpace/Introduction-og-image.webp",
-    "public/WorkSpace/Index-og-image.webp",
-    "public/postscript.js",
-    "public/static/og-image.png",
-    "public/static/icon.png"
+    "Templates"
   ]
 }

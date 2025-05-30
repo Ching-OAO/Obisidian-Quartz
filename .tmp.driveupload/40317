@@ -5,3 +5,4 @@
 # *.[oa]
 # *~
 .obsidian/plugins/obsidian-git/obsidian_askpass.sh
+content/.obsidian/plugins/obsidian-git/obsidian_askpass.sh

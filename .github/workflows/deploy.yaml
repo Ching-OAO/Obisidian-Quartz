@@ -6,21 +6,21 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 name: Deploy Quartz site to GitHub Pages\
- \
+\
 on:\
   push:\
     branches:\
       - v4\
- \
+\
 permissions:\
   contents: read\
   pages: write\
   id-token: write\
- \
+\
 concurrency:\
   group: "pages"\
   cancel-in-progress: false\
- \
+\
 jobs:\
   build:\
     runs-on: ubuntu-22.04\
@@ -38,8 +38,8 @@ jobs:\
       - name: Upload artifact\
         uses: actions/upload-pages-artifact@v3\
         with:\
-          path: public\
- \
+          path: dist\
+\
   deploy:\
     needs: build\
     environment:\
@@ -49,4 +49,5 @@ jobs:\
     steps:\
       - name: Deploy to GitHub Pages\
         id: deployment\
-        uses: actions/deploy-pages@v4}
+        uses: actions/deploy-pages@v4\
+}

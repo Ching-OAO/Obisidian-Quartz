@@ -1,18 +1,28 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "content/WorkSpace/Index.md",
+  "selectedDraftVaultPath": "content/Test/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2025-05-30T10:52:36.079Z",
-      "total": 8,
+      "total": 1125,
       "drafts": {
         "content/WorkSpace/Index.md": {
           "total": 8,
           "scenes": {
             "Introduction": 8
+          }
+        },
+        "content/Test/Index.md": {
+          "total": 1125,
+          "scenes": {
+            "0. Obsidian學習大綱": 39,
+            "1. Obsidian簡介": 76,
+            "2. 認識Obsidian0.Obisidian": 192,
+            "3. Markdown格式": 814,
+            "4.  為知識建立聯接": 4
           }
         }
       }

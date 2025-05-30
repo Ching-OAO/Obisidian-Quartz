@@ -1,13 +1,9 @@
 ---
-title: Example Title
+title: 個人知識庫
 draft: false
 tags:
-  - 
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 https://ching-oao.github.io/Obisidian-Quartz/
 
+<img src="Attatchments/厭世哇哇.jpeg" alt="厭世哇哇" width="300">
+ 

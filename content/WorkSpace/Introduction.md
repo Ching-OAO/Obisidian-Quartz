@@ -9,4 +9,4 @@ tags:
 -
 
 ---
-The introduction goes here.
+https://ching-oao.github.io/Obisidian-Quartz/

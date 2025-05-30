@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2025-05-30T10:52:36.079Z",
-      "total": 1125,
+      "total": 5,
       "drafts": {
         "content/WorkSpace/Index.md": {
           "total": 8,
@@ -16,13 +16,13 @@
           }
         },
         "content/Test/Index.md": {
-          "total": 1125,
+          "total": 0,
+          "scenes": {}
+        },
+        "content/筆記/Index.md": {
+          "total": 5,
           "scenes": {
-            "0. Obsidian學習大綱": 39,
-            "1. Obsidian簡介": 76,
-            "2. 認識Obsidian0.Obisidian": 192,
-            "3. Markdown格式": 814,
-            "4.  為知識建立聯接": 4
+            "Introduction": 5
           }
         }
       }

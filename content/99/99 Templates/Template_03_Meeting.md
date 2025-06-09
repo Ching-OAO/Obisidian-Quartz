@@ -5,7 +5,7 @@ person:
 properties:
   - meeting
 tags: 
-draft: false
+draft: true
 ---
 # 主持人
 

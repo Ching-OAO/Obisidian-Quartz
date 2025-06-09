@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Tool/Obsidian Note/0. Obsidian學習大綱.md",
+                "file": "02 Tool/Obsidian Note/Obsidian快捷鍵清單.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Obsidian學習大綱"
+              "title": "Obsidian快捷鍵清單"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Tool/Obsidian Note/0. Obsidian學習大綱.md",
+                "file": "02 Tool/Obsidian Note/Obsidian快捷鍵清單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0. Obsidian學習大綱 的反向連結"
+              "title": "Obsidian快捷鍵清單 的反向連結"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Tool/Obsidian Note/0. Obsidian學習大綱.md",
+                "file": "02 Tool/Obsidian Note/Obsidian快捷鍵清單.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0. Obsidian學習大綱 的大綱"
+              "title": "Obsidian快捷鍵清單 的大綱"
             }
           }
         ],
@@ -173,20 +173,20 @@
   },
   "active": "f8728b2cecb049bc",
   "lastOpenFiles": [
+    "02 Tool/Obsidian Note/6. 學習使用Dataview.md",
+    "02 Tool/Obsidian Note/5. Obsidian使用技巧.md",
+    "02 Tool/Obsidian Note/4. 為知識建立聯接.md",
+    "02 Tool/Obsidian Note/3. Markdown格式.md",
+    "02 Tool/Obsidian Note/2. 認識Obsidian.md",
+    "02 Tool/Obsidian Note/1. Obsidian簡介.md",
+    "02 Tool/Obsidian Note/0. Obsidian學習大綱.md",
     "99/99 Templates/Template_03_Meeting.md",
     "99/99 Templates/Template_01_Note.md",
     "99/99 Templates/Template_02_Diary.md",
-    "02 Tool/Obsidian Note/0. Obsidian學習大綱.md",
     "00 Box/TEST.md",
     "99",
     "04 Outsight",
     "02 Tool/Obsidian Note/Obsidian快捷鍵清單.md",
-    "02 Tool/Obsidian Note/5. Obsidian使用技巧.md",
-    "02 Tool/Obsidian Note/4. 為知識建立聯接.md",
-    "02 Tool/Obsidian Note/3. Markdown格式.md",
-    "02 Tool/Obsidian Note/1. Obsidian簡介.md",
-    "02 Tool/Obsidian Note/6. 學習使用Dataview.md",
-    "02 Tool/Obsidian Note/2. 認識Obsidian.md",
     "99/99 Attatchments/截圖 2025-06-09 晚上11.57.28.png",
     "99/99 Attatchments/厭世哇哇.jpeg",
     "02 Tool/Obsidian Note/6. 插件（上）.md",

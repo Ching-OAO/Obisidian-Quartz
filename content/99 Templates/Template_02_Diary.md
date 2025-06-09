@@ -1,7 +1,10 @@
 ---
 title: "{{title}}"
+properties:
+  - diary
+date: 
+tags: 
 draft: false
-tags:
 ---
 # 今日任務
 

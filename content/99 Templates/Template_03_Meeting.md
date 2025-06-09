@@ -1,15 +1,16 @@
 ---
 title: <% tp.file.title %>
+datetime: 
+person: 
+properties:
+  - meeting
+tags: 
 draft: false
-tags:
 ---
 # 主持人
 
 * 
 
-# 與會人
-
-* 
 
 ---
 # 會議主題

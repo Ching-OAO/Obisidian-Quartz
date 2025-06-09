@@ -2,9 +2,9 @@
 title: <% tp.file.title %>
 datetime: 
 person: 
-properties:
+properties: 
+tags:
   - meeting
-tags: 
 draft: true
 ---
 # 主持人

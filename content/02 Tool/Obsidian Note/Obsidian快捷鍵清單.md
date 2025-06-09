@@ -1,8 +1,7 @@
 ---
 title: ＃ 快捷鍵清單
 source: 
-properties:
-  - obsidian
+properties: []
 tags:
   - obsidian
 root: "[[0. Obsidian學習大綱]]"

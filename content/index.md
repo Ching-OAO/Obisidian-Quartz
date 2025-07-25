@@ -7,5 +7,4 @@ tags:
 
 [Quartz](https://quartz.jzhao.xyz/)
 
-<img src="99 Attatchments/厭世哇哇.jpeg" alt="厭世哇哇" width="300">
- 
+![[截圖 2025-07-26 清晨5.42.12.png]]

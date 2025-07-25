@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
-properties:
-  - diary
+properties: []
 date: 
 tags: 
 draft: true
